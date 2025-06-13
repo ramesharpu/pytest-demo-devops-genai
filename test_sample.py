@@ -11,3 +11,5 @@ def test_case2():
 def test_case3():
     assert func(10) != 25
 
+def test_case4():
+    assert func(20) != 25
